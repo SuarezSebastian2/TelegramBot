@@ -1,0 +1,8 @@
+¿quién garantiza que mis datos (los del 
+negocio) están a salvo?
+Para garantizar la seguridad de los datos de un usuario en una aplicación, se deben implementar medidas de seguridad adecuadas.
+ Esto incluye el uso de protocolos de encriptación de datos, autenticación de usuarios y verificación de permisos para acceder a la información. 
+También es importante mantener actualizada la aplicación y sus componentes, y realizar pruebas de seguridad regularmente para detectar posibles vulnerabilidades.
+ Además, es fundamental contar con políticas claras de privacidad y términos de uso que sean transparentes y accesibles para los usuarios.
+Los datos del negocio de doña Rosa, ademas de crear una copia de seguridad en el dispositivo movil que utiliza, tambien genera una copia automatica de los datos ingresados
+en el servidor del app que esta utilizando, asi genera doble copia de respaldo en caso de perdida de informacion.
