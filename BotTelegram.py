@@ -153,7 +153,7 @@ def consultar_productos(update: Update, _: CallbackContext):
 
 
 def main():
-    updater = Updater("6145668172:AAE_njqesomtFq7gGflGAFRE6YmV282K3Tk")
+    updater = Updater("TOken")'''6145668172:AAE_njqesomtFq7gGflGAFRE6YmV282K3Tk'''
 
     dispatcher = updater.dispatcher
     dispatcher.add_handler(CommandHandler("start", start))
